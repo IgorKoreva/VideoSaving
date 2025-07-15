@@ -31,6 +31,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Movements.executor": "Run",
     "Python.Registrator.executor": "Run",
     "Python.Registrator2.executor": "Run",
     "Python.Registrator3.executor": "Run",
